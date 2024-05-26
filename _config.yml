@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:yvonne19970805li/YujhenBlog.git
-  branch: master
+  branch: gh-pages
